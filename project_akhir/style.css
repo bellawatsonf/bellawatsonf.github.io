@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.box-content{
+    width:40%;
+    display: block;
+    margin:auto;
+    background: linear-gradient(#000046, #1cb5e0);
+    height: 100%;
+    padding-bottom:70px;
+}
+
+.box-content h1{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.image{
+    width:50%;
+    display: block;
+    margin: auto;
+}
+
+.image img{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 32px;
+}
+
+.play-pause{
+    text-align: center;
+}
+.icon{
+    width:10%;
+    margin:50px
+    
+}
